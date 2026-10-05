@@ -9,3 +9,5 @@ Construo sites, apps e servidores de jogo, do protótipo ao ar.
 - **[obs-now-playing-bridge](https://github.com/sanfado/obs-now-playing-bridge)**: mostra a música do Spotify ou do YouTube Music na live pelo OBS, sem plugin e sem login (código aberto)
 
 [sanfado.com](https://sanfado.com) · contato@sanfado.com
+
+Se algum projeto te ajudou: [Ko-fi](https://ko-fi.com/sanfado) · [LivePix](https://livepix.gg/sanfado) (Pix)
