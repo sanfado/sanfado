@@ -7,6 +7,7 @@ Construo sites, apps e servidores de jogo, do protótipo ao ar.
 - **ClipMD**: área de transferência entre Android e Windows que preserva Markdown (em teste)
 - **Twin Legacy**: servidor privado de Conquer Online (em construção)
 - **[obs-now-playing-bridge](https://github.com/sanfado/obs-now-playing-bridge)**: mostra a música do Spotify ou do YouTube Music na live pelo OBS, sem plugin e sem login (código aberto)
+- **[obs-multichat-overlay](https://github.com/sanfado/obs-multichat-overlay)**: junta o chat da Kick e da Twitch numa fonte do OBS, com um painel para o streamer ler durante a live (código aberto)
 
 [sanfado.com](https://sanfado.com) · contato@sanfado.com
 
